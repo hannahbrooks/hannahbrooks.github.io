@@ -1,4 +1,4 @@
-# My Site <3
+# My Site
 
 `npm install` initially.
 
